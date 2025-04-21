@@ -1,10 +1,10 @@
-﻿namespace app_mediatr.Entities
+﻿namespace app_mediatr.DTOs
 {
-    public class Cliente
+    public class ClienteDTO
     {
         public string Nome { get; set; } = string.Empty;
         public string Email { get; set; } = string.Empty;
         public int Idade { get; set; }
-        public bool Ativo { get; set; } = false;        
+        public bool Ativo { get; set; } = false;
     }
 }

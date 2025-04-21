@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("app-mediatr")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ec13492fe10893422be0908ced5b3a204ee2381")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef15560df4085377ed12b0ee4f87c358ad4f5777")]
 [assembly: System.Reflection.AssemblyProductAttribute("app-mediatr")]
 [assembly: System.Reflection.AssemblyTitleAttribute("app-mediatr")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
