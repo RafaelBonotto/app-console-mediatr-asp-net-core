@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "app-mediatr/1.0.0": {
+        "runtime": {
+          "app-mediatr.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "app-mediatr/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

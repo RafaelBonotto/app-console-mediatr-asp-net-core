@@ -1,0 +1,14 @@
+C:\Users\rafar\source\repos\app-console-mediatr-asp-net-core\app-mediatr\bin\Debug\net9.0\app-mediatr.exe
+C:\Users\rafar\source\repos\app-console-mediatr-asp-net-core\app-mediatr\bin\Debug\net9.0\app-mediatr.deps.json
+C:\Users\rafar\source\repos\app-console-mediatr-asp-net-core\app-mediatr\bin\Debug\net9.0\app-mediatr.runtimeconfig.json
+C:\Users\rafar\source\repos\app-console-mediatr-asp-net-core\app-mediatr\bin\Debug\net9.0\app-mediatr.dll
+C:\Users\rafar\source\repos\app-console-mediatr-asp-net-core\app-mediatr\bin\Debug\net9.0\app-mediatr.pdb
+C:\Users\rafar\source\repos\app-console-mediatr-asp-net-core\app-mediatr\obj\Debug\net9.0\app-mediatr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafar\source\repos\app-console-mediatr-asp-net-core\app-mediatr\obj\Debug\net9.0\app-mediatr.AssemblyInfoInputs.cache
+C:\Users\rafar\source\repos\app-console-mediatr-asp-net-core\app-mediatr\obj\Debug\net9.0\app-mediatr.AssemblyInfo.cs
+C:\Users\rafar\source\repos\app-console-mediatr-asp-net-core\app-mediatr\obj\Debug\net9.0\app-mediatr.csproj.CoreCompileInputs.cache
+C:\Users\rafar\source\repos\app-console-mediatr-asp-net-core\app-mediatr\obj\Debug\net9.0\app-mediatr.dll
+C:\Users\rafar\source\repos\app-console-mediatr-asp-net-core\app-mediatr\obj\Debug\net9.0\refint\app-mediatr.dll
+C:\Users\rafar\source\repos\app-console-mediatr-asp-net-core\app-mediatr\obj\Debug\net9.0\app-mediatr.pdb
+C:\Users\rafar\source\repos\app-console-mediatr-asp-net-core\app-mediatr\obj\Debug\net9.0\app-mediatr.genruntimeconfig.cache
+C:\Users\rafar\source\repos\app-console-mediatr-asp-net-core\app-mediatr\obj\Debug\net9.0\ref\app-mediatr.dll
