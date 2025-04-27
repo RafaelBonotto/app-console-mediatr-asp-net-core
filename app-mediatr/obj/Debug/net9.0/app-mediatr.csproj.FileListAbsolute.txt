@@ -12,3 +12,4 @@ C:\Users\rafar\source\repos\app-console-mediatr-asp-net-core\app-mediatr\obj\Deb
 C:\Users\rafar\source\repos\app-console-mediatr-asp-net-core\app-mediatr\obj\Debug\net9.0\app-mediatr.pdb
 C:\Users\rafar\source\repos\app-console-mediatr-asp-net-core\app-mediatr\obj\Debug\net9.0\app-mediatr.genruntimeconfig.cache
 C:\Users\rafar\source\repos\app-console-mediatr-asp-net-core\app-mediatr\obj\Debug\net9.0\ref\app-mediatr.dll
+C:\Users\rafar\source\repos\app-console-mediatr-asp-net-core\app-mediatr\obj\Debug\net9.0\app-mediatr.sourcelink.json
